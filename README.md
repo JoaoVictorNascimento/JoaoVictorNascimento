@@ -14,7 +14,7 @@ I'm a programmer with an unwavering passion for creating amazing, functional int
 [![Github trophy](
 https://github-profile-trophy.vercel.app/?username=joaovictornascimento&theme=onedark)](https://github.com/joaovictornascimento)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,vue,css,html,styledcomponents,jest,nextjs,azure,androidstudio,nextjs,prisma,graphql,redux,sass,linux,docker,mongodb,mysql,postgres,github,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,typescript,vue,css,html,graphql,redux,sass,styledcomponents,py)](https://skillicons.dev)
 
 
 
