@@ -9,11 +9,6 @@ I'm a programmer with an unwavering passion for creating amazing, functional int
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictornascimento&layout=compact&langs_count=7&theme=merko"/>
 </div><br>
 
-
-
-[![Github trophy](
-https://github-profile-trophy.vercel.app/?username=joaovictornascimento&theme=onedark)](https://github.com/joaovictornascimento)
-
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,typescript,vue,css,html,graphql,redux,sass,styledcomponents,py)](https://skillicons.dev)
 
 
