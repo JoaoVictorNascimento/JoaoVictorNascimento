@@ -8,4 +8,4 @@ I'm a programmer with an unwavering passion for creating amazing, functional int
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaovictornascimento&layout=compact&theme=dracula"/>
 </div><br>
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,typescript,vue,css,html,graphql,redux,sass,styledcomponents,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nextjs,nodejs,typescript,vue,css,html,graphql,redux,sass,styledcomponents,py,rust)](https://skillicons.dev)
