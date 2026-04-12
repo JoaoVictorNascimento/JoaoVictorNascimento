@@ -1,6 +1,5 @@
 ### Hi my name is João Victor 👋
 
-
 I'm a programmer with an unwavering passion for creating amazing, functional interfaces. With more than 7 years of experience in frontend development, I acquired solid skills in React and TypeScript, which allowed me to create robust and effective web applications.
 
 <div>
